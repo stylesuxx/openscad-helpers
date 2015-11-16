@@ -2,17 +2,17 @@
 >A collection of OpenScad helper modules for daily use.
 
 ## Usage
-Just download *helpers.scad* and include it in your project:
+Just download *helpers.scad* and include it in your OpenScad project:
 
     include <helpers.scad>
 
 ## Available helpers
 Lets go into detail for all available helper modules:
 
-### hexagon(side, height)
+##### hexagon(side, height)
 A centered hexagon with *side* length and a *height*.
 
-### trapezoid(bottom, top, height, depth)
+##### trapezoid(bottom, top, height, depth)
 A centered trapezoid with a *bottom* and *top* length, a *height* and a *depth*.
 
 ## [MIT](https://opensource.org/licenses/MIT) License
